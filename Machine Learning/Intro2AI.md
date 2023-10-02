@@ -23,3 +23,15 @@ Supervised Learning : Learning + Recognition
 * Support Vector Machine
 * Decision Tree
 * Bayesian Networks
+
+### Components of ML
+<img width="1310" alt="image" src="https://github.com/baejaeho18/MyLibrary/assets/37645490/61c2e113-4ef7-4253-a9a5-6aed39e39122">
+
+### Categories of ML
+* Unsupervised Learning : clustering, dimension reduction by Density estimation, Pretraining
+* Supervised Learning : speech/face recognition by Classification, Regression
+* Semi-supervised Learning
+* Reinforcement Learning : alphago, self-driving, machine translation
+  - credit assignment problem
+  - trade-off between exploration and exploitation
+
