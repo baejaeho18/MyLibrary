@@ -9,3 +9,17 @@ Alan Turing : Turing machine and Turing test
 <br>Multiplayer Perceptron(1986)
 <br>SVM(1995)
 <br>Deep Neural Networks(Geoffrey Hinston, 2006)
+
+## What is ML?
+### Bayseian Perceptive
+$$p(w|D) = p(D|w)p(w)/p(D)$$
+### Simple Models
+Linear Regression
+Supervised Learning : Learning + Recognition
+
+<br> is not enough to solve complex problems
+### Complex Model
+* Neural Networks
+* Support Vector Machine
+* Decision Tree
+* Bayesian Networks
