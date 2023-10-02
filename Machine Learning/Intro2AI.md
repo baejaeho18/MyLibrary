@@ -1,8 +1,8 @@
-## History
+## AI History
 ### Approaches
 <img width="1049" alt="image" src="https://github.com/baejaeho18/MyLibrary/assets/37645490/0468952e-3c6b-4ef8-822b-346f04bf8860">
 
-### 
+### Timeline
 Alan Turing : Turing machine and Turing test
 
 Neural Networks(Donald Hebb, 1949)
