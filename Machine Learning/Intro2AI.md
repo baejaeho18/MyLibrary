@@ -6,8 +6,8 @@
 Alan Turing : Turing machine and Turing test
 
 Neural Networks(Donald Hebb, 1949)
-Perceptron(Frank Rosenblatt, 1958) <-> (Marvin Minsky, 1969)
-Multiplayer Perceptron(1986)
-SVM(1995)
+<br>Perceptron(Frank Rosenblatt, 1958) <-> (Marvin Minsky, 1969)
+<br>Multiplayer Perceptron(1986)
+<br>SVM(1995)
 
 Deep Neural Networks(Geoffrey Hinston, 2006)
