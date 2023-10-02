@@ -12,7 +12,7 @@ Alan Turing : Turing machine and Turing test
 
 ## What is ML?
 ### Bayseian Perceptive
-$$p(w|D) = p(D|w)p(w)/p(D)$$
+$$p(w|D) = \frac{p(D|w)p(w)}{p(D)} (w: parameter, D: data)$$
 ### Simple Models
 Linear Regression
 Supervised Learning : Learning + Recognition
