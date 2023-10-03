@@ -27,16 +27,33 @@ Essence of linear algebra [[video]](https://www.youtube.com/playlist?list=PLZHQO
     - edit distance
     - Hamming distance
   - orthogonal vectors
-  - 
+ 
+* tensor
+
 ### Matrix
+- transpose
+- multiplication
+- determinant
+- trace
+- rank
+- identity matrix
+- inverse
+- positive-definite
+- positive-semidefinite
+- pseudo-inverse
+- linear transformation
 
 ### Eigen Decomposition
+
+- Eigenvalue Decomposition
 
 ### Cholesky Decomposition
 
 ### Derivatives of vector and matrix
 
+
 ## Probability and Statistics
+
 
 ## Descrete Math
 Discrete Mathematics Lecture Notes (1999), L.Lovasz [[pdf]](https://cims.nyu.edu/~regev/teaching/discrete_math_fall_2005/dmbook.pdf)
