@@ -13,6 +13,7 @@ Useful to approximate a function as a sum of polynomials.
 
 
 ## Linear Algebra
+Essence of linear algebra [[video]](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
 ### Vector Operation
 * scalar : integers, real/rational numbers, etc
 * vector : one-dimensional array of scalars
