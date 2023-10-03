@@ -38,3 +38,4 @@ Useful to approximate a function as a sum of polynomials.
 ## Probability and Statistics
 
 ## Descrete Math
+Discrete Mathematics Lecture Notes (1999), L.Lovasz [[pdf]](https://cims.nyu.edu/~regev/teaching/discrete_math_fall_2005/dmbook.pdf)
