@@ -24,10 +24,27 @@ Paper &amp; Book &amp; Video &amp; etc
 
 ## Programming Language
 ### Languages
+* C
+* C++
+* Java
+* Python
+* Others: Rust, Go, etc
 ### PLT
-### Automata
-### Compiler
+### Automata Theory
+* Chomnsky hierarchy
 
+[An Introduction to Formal Languages and Automata(2012), Peter Linz]()
+### Compiler
+* Front-end
+  - Scanner
+  - Parser
+  - Sementic Analyzer
+* IR
+* Back-end
+  - Optimizer
+
+[Compilers - Principles, Tech;niques & Tools(2007), Aho,Lam,sethi,Ullman  (Dragon Book)](https://faculty.sist.shanghaitech.edu.cn/faculty/songfu/cav/Dragon-book.pdf) <br>
+[Compiler Consturction, Principles and Practice(1997), C. Louden]()
 ## Computer Network
 
 ## Machine Learning
