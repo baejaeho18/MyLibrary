@@ -4,3 +4,37 @@
 </p>
 
 Paper &amp; Book &amp; Video &amp; etc
+
+
+
+## Mathematics
+### Calculus
+### Linear Algebra
+### Probability and Statistics
+### Discrete Math
+
+## Algorithm & Data Structure
+
+## Computer System
+### Computer Structure
+### Operating System
+### Embeded System?
+
+## Database
+
+## Programming Language
+### Languages
+### PLT
+### Automata
+### Compiler
+
+## Computer Network
+
+## Machine Learning
+
+## Software Engineering
+### Testing
+### Management System
+
+## Computer Security
+### Crpytography
