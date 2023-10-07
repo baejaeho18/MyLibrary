@@ -53,7 +53,7 @@ Essence of linear algebra [[video]](https://www.youtube.com/playlist?list=PLZHQO
 
 
 ## Probability and Statistics
-
+probability : "how likely" the event will occur when randomly selected. (quantify uncertainty)
 
 ## Descrete Math
 Discrete Mathematics Lecture Notes (1999), L.Lovasz [[pdf]](https://cims.nyu.edu/~regev/teaching/discrete_math_fall_2005/dmbook.pdf)
