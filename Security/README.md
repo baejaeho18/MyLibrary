@@ -5,13 +5,22 @@ Definition : The projection affor to an automated information system in order to
 # Crpytography
 ## Crpytography Techniques
 * Type of encrpytion Operations
-  - SubStitution(S-box)
-  - Transposition(P-box)
+  - SubStitution(S-box) : mapping to other symbol
+    * Monoaplhabetic Ciphers : one-to-one
+      ex) Caesar cipher(additive or shift cipher)
+    * Homophonic Substitution Cipher : one-to-many
+    * Polygram Substitution Cipher : Block-by-Block replacement
+    * Polyalphabetic Substition Cipher
+      ex) Autokey - pre-Plain character became a key
+  - Transposition(P-box) : reorder the symbols
+    * Keyless : Columnar Transposition. Vernam(one-time key) cipher
+    * Keyed
+    * Combined
   - Others : XOR, Circular shift, Swap, Split and Combine
   - Product : Multi Rounds of substitutions and transpositon
     * Diffusion : ciphertext-plaintext
     * Confusion : ciphertext-key
-* Number of Keys used
+* Number of Keys used : must be secure even if everything, except the key, is the public (Kerckhoffs's Principle)
   - Symmetric Key : Single-key or secret
   - Asymmetric key : Two-key or public
 * Type of Algorithms : define the size of plain text
