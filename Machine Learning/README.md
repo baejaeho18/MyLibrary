@@ -33,3 +33,19 @@ If you don't know, goto Calculas for Linear algebra, probability and statistics.
 
 ## What is DL?
 [[slides]](https://www.slideshare.net/TundeAjoseIsmail/deep-learning-presentation-102934185)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[Geoffrey E. Hinton's Publications in Reverse Chronological Order](http://www.cs.toronto.edu/~hinton/papers.html)
