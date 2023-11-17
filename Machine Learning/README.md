@@ -46,6 +46,15 @@ If you don't know, goto Calculas for Linear algebra, probability and statistics.
 
 ## Neural Networks
 
+### Forward Propagation
+Inference(prediction or classification) or Recognition
+
+### Backward Propagation
+Learning is to update the weights. Worked by Loss Functions.
+
+Objective Function
+MLE
+
 ## Graphical Models
 
 ## Mixture Models and EM
