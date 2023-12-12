@@ -4,7 +4,7 @@ The sensitivity of f(x) with respect to a change in x     like the tangent line 
 
 ### Taylor Series
 Infinitely differentiable at x = a
-<img width="567" alt="image" src="https://github.com/baejaeho18/MyLibrary/assets/37645490/d5ac9b85-5746-4d33-8957-084b8373546e">
+<img width="500" alt="image" src="https://github.com/baejaeho18/MyLibrary/assets/37645490/d5ac9b85-5746-4d33-8957-084b8373546e">
 
 Useful to approximate a function as a sum of polynomials[[blog]](https://darkpgmr.tistory.com/59)
 
