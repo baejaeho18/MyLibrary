@@ -2,9 +2,9 @@
 OpenCV4 [[code]](https://github.com/sunkyoo/opencv4cvml/tree/master)
 
 ## Image Generation
-GAN Model : image to image
-? : image to video
-Diffusion Model : video to video
+GAN Model : image to image <br>
+? : image to video <br>
+Diffusion Model : video to video <br>
 ### Video Generation
 1) Video Diffusion
   * IMAGEN(Google)
